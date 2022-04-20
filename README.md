@@ -1,8 +1,8 @@
 Project completed!</br>
 - In this project I acted as Front-End.
 - I developed a Working Calculator with CSS Claymorphism Effects.</br>
+- I used Html CSS & Javascript.</br>
 
-I used Html CSS & Javascript.</br>
 I'm happy with the result.</br>
 
 
